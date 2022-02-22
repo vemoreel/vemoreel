@@ -1,0 +1,6 @@
+include:
+  - index.html
+
+exclude:
+  - _config.yml
+  - LICENSE
